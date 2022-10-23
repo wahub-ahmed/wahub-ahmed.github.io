@@ -1,8 +1,18 @@
 ---
+title: About
+page_title: About
+layout: single
 permalink: /about/
-title: "About"
+author_profile: false
+comments: false
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hey there, I'm glad you stopped by my page! Your journey through the internet must have been tiring, so help yourself to some :coffee:
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### About Me
+I am a Computer Science Major at Haverford College, involved in Software Engineering, Data Engineering, and Data Science. But really, I innovate ways to learn from and communicate with people. We are our own datasets afterall.
+
+I enjoy exploring nature trails, open water swimming, weightlifting, and repairing old technology in my spare time.
+
+### Contact
+Feel free to reach out to wahub.ahmed.reply@gmail.com with any questions or comments you may have.
